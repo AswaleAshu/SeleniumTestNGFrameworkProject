@@ -62,8 +62,7 @@ public class baseClass {
 		
 		driverInitialization();
 		
-		String prop.
-		driver.get);
+		
 	}
 	
 	
